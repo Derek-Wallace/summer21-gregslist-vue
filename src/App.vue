@@ -26,6 +26,11 @@
             Cars
           </router-link>
         </div>
+        <div class="my-5">
+          <router-link :to="{name: 'Houses'}">
+            Houses
+          </router-link>
+        </div>
       </div>
     </div>
     <main>
